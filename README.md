@@ -5,6 +5,7 @@ FocusFlow is a fictional productivity SaaS product designed to help users stay f
 ## 🚀 Live Demo
 
 [View Live Demo](#)
+elevvo-focusflow-landing-page.netlify.app
 
 ## 📸 Features
 
@@ -24,14 +25,12 @@ FocusFlow is a fictional productivity SaaS product designed to help users stay f
 
 ## 📂 Project Structure
 
-```text
 focusflow-landing-page/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-```
 
 ## 💻 Getting Started
 
@@ -72,6 +71,5 @@ Completed – built as part of the Elevvo Frontend Development Internship.
 
 Created by **Joshua Okonkwo**.
 
----
 
 If you find this project interesting, feel free to explore the code!
